@@ -2,122 +2,59 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 👨‍💻 Abin RD
 
-[Link to another page](./another-page.html).
+_I design & develop on the web and I’m diving deep into the world of cybersecurity._
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🧠 About Me
 
-# Header 1
+I'm a self-driven web enthusiast and an aspiring cybersecurity learner who thrives at the intersection of **creativity**, **problem-solving**, and **impactful tech**.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’ve taken part in multiple hackathons and walked away with more than just swag — including **two runner-up titles and one win**. I don’t just build projects; I build momentum.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🏆 Hackathon Highlights
 
-### Header 3
+| Event | Achievement | Year |
+|:------|:------------|:-----|
+| Hackathon #1 | 🥇 Winner | [Year] |
+| Hackathon #2 | 🥈 Runner-up | [Year] |
+| Hackathon #3 | 🥈 Runner-up | [Year] |
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> “Sometimes you build to win. Sometimes you build to learn. I aim to do both.”
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## 🚀 Tech Interests
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+ I enjoy exploring:
 
-##### Header 5
+- 🌐 Web Development
+- 🛡️ Cybersecurity fundamentals
+- 🧪 Experimenting with weird ideas
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+> “I believe the best learning happens while building.”
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## 🗺️ Currently Learning
 
-### There's a horizontal rule below this.
+- 🔐 Penetration Testing basics
+- ⚡ Fast project execution for MVPs
 
-* * *
+---
 
-### Here is an unordered list:
+## 🔗 Connect with Me
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- 📬 Email: [abinrd01@gmail.com](mailto:abinrd01@gmail.com)
+- 🐙 GitHub: [github.com/abinrd](https://github.com/abinrd)
+- 💼 LinkedIn: [linkedin.com/in/abinrd](https://linkedin.com/in/abinrd)
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## 🌀 A Final Note
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> This site is under active construction
