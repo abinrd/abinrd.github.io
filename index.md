@@ -10,21 +10,19 @@ _I design & develop on the web and I’m diving deep into the world of cybersecu
 
 ## 🧠 About Me
 
-I'm a self-driven web enthusiast and an aspiring cybersecurity learner who thrives at the intersection of **creativity**, **problem-solving**, and **impactful tech**.
+I'm a self-driven web enthusiast and an aspiring cybersecurity learner 
 
-I’ve taken part in multiple hackathons and walked away with more than just swag — including **two runner-up titles and one win**. I don’t just build projects; I build momentum.
+I’ve taken part in multiple hackathons and walked away with more than just swag including **two runner-up titles and one win**.
 
 ---
 
 ## 🏆 Hackathon Highlights
 
-| Event | Achievement | Year |
+| Event | Achievement | Link |
 |:------|:------------|:-----|
-| Hackathon #1 | 🥇 Winner | [Year] |
-| Hackathon #2 | 🥈 Runner-up | [Year] |
-| Hackathon #3 | 🥈 Runner-up | [Year] |
-
-> “Sometimes you build to win. Sometimes you build to learn. I aim to do both.”
+| Hackathon #1 | 🥇 Winner | [NGO Food Delivery](https://github.com/aibelbin/Nasa_space_apps) |
+| Hackathon #2 | 🥈 Runner-up | [Logitech](https://github.com/aibelbin/Logitech). |
+| Hackathon #3 | 🥈 Runner-up | [Ai Heatlh Companion For The Elderly](PrivateRepo)|
 
 ---
 
@@ -36,22 +34,15 @@ I’ve taken part in multiple hackathons and walked away with more than just swa
 - 🛡️ Cybersecurity fundamentals
 - 🧪 Experimenting with weird ideas
 
-> “I believe the best learning happens while building.”
-
----
-
-## 🗺️ Currently Learning
-
-- 🔐 Penetration Testing basics
-- ⚡ Fast project execution for MVPs
-
 ---
 
 ## 🔗 Connect with Me
 
 - 📬 Email: [abinrd01@gmail.com](mailto:abinrd01@gmail.com)
 - 🐙 GitHub: [github.com/abinrd](https://github.com/abinrd)
-- 💼 LinkedIn: [linkedin.com/in/abinrd](https://linkedin.com/in/abinrd)
+- 💼 LinkedIn: [linkedin.com/in/abinrd](www.linkedin.com/in/abinrd)
+
+
 
 ---
 
