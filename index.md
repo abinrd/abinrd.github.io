@@ -40,7 +40,7 @@ I’ve taken part in multiple hackathons and walked away with more than just swa
 
 - 📬 Email: [abinrd01@gmail.com](mailto:abinrd01@gmail.com)
 - 🐙 GitHub: [github.com/abinrd](https://github.com/abinrd)
-- 💼 LinkedIn: [linkedin.com/in/abinrd](www.linkedin.com/in/abinrd)
+- 💼 LinkedIn: [linkedin.com/in/abinrd]( https://linkedin.com/in/abinrd)
 
 
 
